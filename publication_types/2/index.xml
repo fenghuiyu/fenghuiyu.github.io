@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Fenghui Yu - Math, HKU</title>
+    <link>https://fenghuiyu.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Fenghui Yu - Math, HKU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Fenghui Yu 2018</copyright>
+    <lastBuildDate>Thu, 23 Feb 2017 01:23:04 +0800</lastBuildDate>
+    
+	<atom:link href="https://fenghuiyu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interacting default intensity with a hidden Markov process</title>
+      <link>https://fenghuiyu.github.io/publication/credit/</link>
+      <pubDate>Thu, 23 Feb 2017 01:23:04 +0800</pubDate>
+      
+      <guid>https://fenghuiyu.github.io/publication/credit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Credit Risk with Hidden Markov Default Intensity</title>
+      <link>https://fenghuiyu.github.io/publication/credithmm/</link>
+      <pubDate>Tue, 20 Nov 2018 15:46:10 +0800</pubDate>
+      
+      <guid>https://fenghuiyu.github.io/publication/credithmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Pricing and Hedging Basket Credit Derivatives with Dependent Structure</title>
+      <link>https://fenghuiyu.github.io/publication/hedging/</link>
+      <pubDate>Thu, 23 Aug 2018 16:21:04 +0800</pubDate>
+      
+      <guid>https://fenghuiyu.github.io/publication/hedging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Pairs Trading with Dynamic Mean-variance</title>
+      <link>https://fenghuiyu.github.io/publication/pairstrading/</link>
+      <pubDate>Tue, 23 Oct 2018 16:30:41 +0800</pubDate>
+      
+      <guid>https://fenghuiyu.github.io/publication/pairstrading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing Participating Policies Under Hidden Markov Models via Neural Networks</title>
+      <link>https://fenghuiyu.github.io/publication/participating/</link>
+      <pubDate>Fri, 23 Nov 2018 01:23:04 +0800</pubDate>
+      
+      <guid>https://fenghuiyu.github.io/publication/participating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Mean-Variance Pairs Trading Strategies</title>
+      <link>https://fenghuiyu.github.io/publication/timeinconsistent/</link>
+      <pubDate>Wed, 23 May 2018 16:43:24 +0800</pubDate>
+      
+      <guid>https://fenghuiyu.github.io/publication/timeinconsistent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
