@@ -18,7 +18,7 @@
 
 html {
   font-family: 'Roboto', sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
@@ -1509,7 +1509,7 @@ a.badge:hover {
 
 .dropdown-menu,
 nav#navbar-main li.nav-item {
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link,
