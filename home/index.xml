@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fenghui Yu 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://fenghuiyu.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://fenghuiyu.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,12 +24,11 @@
     <item>
       <title></title>
       <link>https://fenghuiyu.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/about/</guid>
-      <description>About me I&amp;rsquo;m currently a postdoctoral fellow at the department of Mathematics, the University of Hong Kong.
-In August of 2018, I graduated with PhD degree in Financial Mathematics from the University of Hong Kong under the supervision of Professor Wai-Ki Ching. Previously, I obtained my double Bachelor&amp;rsquo;s degrees in Computational Mathematics and Finance respectively from Jilin University, China in July of 2014.
-I&amp;rsquo;ve been doing research in the Advanced Modeling and Applied Computing Laboratory at HKU.</description>
+      <description>About me I&amp;rsquo;m currently a postdoc at RiskLab, ETH Zurich. Before that, I was a postdoctoral fellow at the department of Mathematics, the University of Hong Kong.
+In August of 2018, I graduated with PhD degree in Financial Mathematics from the University of Hong Kong under the supervision of Professor Wai-Ki Ching. Previously, I obtained my double Bachelor&amp;rsquo;s degrees in Computational Mathematics and Finance respectively from Jilin University, China in July of 2014.</description>
     </item>
     
     <item>
@@ -44,7 +43,7 @@ I&amp;rsquo;ve been doing research in the Advanced Modeling and Applied Computin
     <item>
       <title>Academic</title>
       <link>https://fenghuiyu.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -53,7 +52,7 @@ I&amp;rsquo;ve been doing research in the Advanced Modeling and Applied Computin
     <item>
       <title>Papers</title>
       <link>https://fenghuiyu.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/publications/</guid>
       <description>More specifically, my completed and current research projects include credit risk modeling and credit derivatives pricing &amp;amp; hedging, hidden Markov models, optimal pairs trading strategies and participating policies pricing via neural networks (machine learning methods), etc.</description>
@@ -62,7 +61,7 @@ I&amp;rsquo;ve been doing research in the Advanced Modeling and Applied Computin
     <item>
       <title>Teaching</title>
       <link>https://fenghuiyu.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/teaching/</guid>
       <description></description>
@@ -71,7 +70,7 @@ I&amp;rsquo;ve been doing research in the Advanced Modeling and Applied Computin
     <item>
       <title>Skills</title>
       <link>https://fenghuiyu.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/skills/</guid>
       <description></description>
@@ -80,7 +79,7 @@ I&amp;rsquo;ve been doing research in the Advanced Modeling and Applied Computin
     <item>
       <title>Selected Publications</title>
       <link>https://fenghuiyu.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/publications_selected/</guid>
       <description></description>
@@ -89,7 +88,7 @@ I&amp;rsquo;ve been doing research in the Advanced Modeling and Applied Computin
     <item>
       <title>Selected Talks</title>
       <link>https://fenghuiyu.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/talks_selected/</guid>
       <description></description>
@@ -98,7 +97,7 @@ I&amp;rsquo;ve been doing research in the Advanced Modeling and Applied Computin
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://fenghuiyu.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/talks/</guid>
       <description></description>
@@ -107,7 +106,7 @@ I&amp;rsquo;ve been doing research in the Advanced Modeling and Applied Computin
     <item>
       <title>Recent Posts</title>
       <link>https://fenghuiyu.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/posts/</guid>
       <description></description>
@@ -116,7 +115,7 @@ I&amp;rsquo;ve been doing research in the Advanced Modeling and Applied Computin
     <item>
       <title>Projects</title>
       <link>https://fenghuiyu.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/projects/</guid>
       <description></description>
@@ -125,7 +124,7 @@ I&amp;rsquo;ve been doing research in the Advanced Modeling and Applied Computin
     <item>
       <title>Tags</title>
       <link>https://fenghuiyu.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/tags/</guid>
       <description></description>
@@ -134,7 +133,7 @@ I&amp;rsquo;ve been doing research in the Advanced Modeling and Applied Computin
     <item>
       <title>Search</title>
       <link>https://fenghuiyu.github.io/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/search/</guid>
       <description></description>
@@ -143,7 +142,7 @@ I&amp;rsquo;ve been doing research in the Advanced Modeling and Applied Computin
     <item>
       <title>Contact</title>
       <link>https://fenghuiyu.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/contact/</guid>
       <description></description>
