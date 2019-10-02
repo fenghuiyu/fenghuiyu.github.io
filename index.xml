@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fenghui Yu - Math, HKU on Fenghui Yu - Math, HKU</title>
+    <title>Fenghui Yu - RiskLab, ETH on Fenghui Yu - RiskLab, ETH</title>
     <link>https://fenghuiyu.github.io/</link>
-    <description>Recent content in Fenghui Yu - Math, HKU on Fenghui Yu - Math, HKU</description>
+    <description>Recent content in Fenghui Yu - RiskLab, ETH on Fenghui Yu - RiskLab, ETH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fenghui Yu 2019</copyright>
@@ -47,11 +47,29 @@
     </item>
     
     <item>
+      <title>Pricing Participating Policies Under Hidden Markov Models via Neural Networks</title>
+      <link>https://fenghuiyu.github.io/publication/participating/</link>
+      <pubDate>Sat, 23 Mar 2019 01:23:04 +0800</pubDate>
+      
+      <guid>https://fenghuiyu.github.io/publication/participating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimal Mean-Variance Pairs Trading Strategies</title>
       <link>https://fenghuiyu.github.io/publication/timeinconsistent/</link>
       <pubDate>Thu, 23 May 2019 16:43:24 +0800</pubDate>
       
       <guid>https://fenghuiyu.github.io/publication/timeinconsistent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Period Optimal Mean-reverting Spread Trading Strategies with Hidden Markovian Regime Switching</title>
+      <link>https://fenghuiyu.github.io/publication/multiperiod/</link>
+      <pubDate>Wed, 20 Mar 2019 01:23:04 +0800</pubDate>
+      
+      <guid>https://fenghuiyu.github.io/publication/multiperiod/</guid>
       <description></description>
     </item>
     
