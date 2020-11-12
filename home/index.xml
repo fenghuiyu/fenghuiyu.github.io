@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Fenghui Yu - RiskLab, ETH</title>
+    <title>Homes on Fenghui Yu - RiskLab, ETH Zurich</title>
     <link>https://fenghuiyu.github.io/home/</link>
-    <description>Recent content in Homes on Fenghui Yu - RiskLab, ETH</description>
+    <description>Recent content in Homes on Fenghui Yu - RiskLab, ETH Zurich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fenghui Yu 2020</copyright>
@@ -27,8 +27,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/about/</guid>
-      <description>About me I&amp;rsquo;m currently a postdoc at RiskLab, ETH Zurich. Before that, I was a postdoctoral fellow at the department of Mathematics, the University of Hong Kong for a few months where I did research at the Advanced Modeling and Applied Computing Laboratory.
-In December of 2018, I graduated with PhD degree in Financial Mathematics from the University of Hong Kong under the supervision of Professor Wai-Ki Ching. Previously, I obtained my double Bachelor&amp;rsquo;s degrees in Computational Mathematics and Finance respectively from Jilin University, China in July of 2014.</description>
+      <description>About me I&amp;rsquo;m currently a postdoctoral researcher at RiskLab, Mathematics Dept. of ETH Zurich. Before that, I was a postdoctoral fellow at the Mathematics Dept. of the University of Hong Kong for a few months where I did research at the Advanced Modeling and Applied Computing Laboratory.
+Please find my CV here.</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@ In December of 2018, I graduated with PhD degree in Financial Mathematics from t
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://fenghuiyu.github.io/home/publications/</guid>
-      <description>More specifically, my completed and current research projects include credit risk modeling and credit derivatives pricing &amp;amp; hedging, hidden Markov models, optimal pairs trading strategies and participating policies pricing via neural networks (machine learning methods), etc.</description>
+      <description>More specifically, my completed and current research projects include credit risk modeling and credit derivatives pricing &amp;amp; hedging, hidden Markov models, optimal pairs trading strategies and participating policies pricing via neural networks, etc.</description>
     </item>
     
     <item>
