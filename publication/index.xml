@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Fenghui Yu - RiskLab, ETH Zurich</title>
+    <title>Publications on Fenghui Yu - DIAM, TU Delft</title>
     <link>https://fenghuiyu.github.io/publication/</link>
-    <description>Recent content in Publications on Fenghui Yu - RiskLab, ETH Zurich</description>
+    <description>Recent content in Publications on Fenghui Yu - DIAM, TU Delft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fenghui Yu 2022</copyright>
@@ -15,7 +15,7 @@
     <item>
       <title>Optimal Pairs Trading Strategies: a Stochastic Mean-Variance Approach</title>
       <link>https://fenghuiyu.github.io/publication/pairstrading2/</link>
-      <pubDate>Thu, 16 Dec 2021 16:43:24 +0800</pubDate>
+      <pubDate>Wed, 10 Aug 2022 16:43:24 +0800</pubDate>
       
       <guid>https://fenghuiyu.github.io/publication/pairstrading2/</guid>
       <description></description>
