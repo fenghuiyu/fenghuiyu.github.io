@@ -1046,12 +1046,14 @@ article .article-metadata {
   line-height: normal;
   font-style: normal;
   font-size: 0.9rem;
+  font-weight:300
   color: rgba(0,0,0,0.54);
 }
 
 .pub-list-item .pub-publication {
   color: rgba(0,0,0,0.54);
   font-size: 0.9rem;
+  font-weight:300
 }
 
 
@@ -1522,7 +1524,7 @@ nav#navbar-main li.nav-item {
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
   color: #fff;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:focus {
