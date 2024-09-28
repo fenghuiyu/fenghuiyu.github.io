@@ -71,12 +71,6 @@ ul, ol, dl {
   font-weight: 300
 }
 
-ml {
-  margin-top: 0;
-  margin-bottom: 0rem;
-  font-weight: 300
-}
-
 /* Navigation bar text */
 .navbar-light {
   font-family: 'Roboto', sans-serif;
