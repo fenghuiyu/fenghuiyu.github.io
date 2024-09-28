@@ -96,12 +96,12 @@ h2 {
   font-size: 1.5rem;
 }
 h3 {
-  font-weight: 600;
+  font-weight: 400;
   margin-top: 1.5rem;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
-  font-weight: 600;
+  font-weight: 400;
   margin-top: 1rem;
   font-size: 1rem;
 }
@@ -494,7 +494,7 @@ a[data-fancybox] img {
 }
 
 .section-heading p {
-  font-weight: 300;
+  font-weight: 400;
   font-size: 1.1rem;
   color: #b2b2b2;
 }
@@ -989,7 +989,7 @@ article .article-metadata {
 }
 
 .author-card .card-subtitle {
-  font-weight: 400;
+  font-weight: 300;
   font-size: 0.8rem;
   color: rgba(0, 0, 0, 0.54);
   margin-bottom: 7px;
